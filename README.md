@@ -118,7 +118,7 @@ cargo install zkutil
 Or alternatively you can compile and run it instead:
 
 ```shell script
-git clone https://github.com/poma/zkutil
+git clone https://github.com/tanpx/zkutil
 cd zkutil
 cargo run --release -- prove --help
 ```
